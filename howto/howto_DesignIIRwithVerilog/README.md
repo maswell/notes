@@ -1,7 +1,7 @@
 README
 ===========================
 
-how to desing an iir filter with verilog
+how to desing an iir filter using verilog
 _______
 
 
